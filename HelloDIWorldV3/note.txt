@@ -1,0 +1,16 @@
+﻿PROBLEMSOLUTION
+5/17/21
+HelloDIWorldV3 
+-'not all return values are real' solution: create a variable and set the ReadLine equal to it and return the variable.
+-I want to use a loop, so I can do multiple commands at one time. I don't want to inculde an entire interface into the for loop interval. I want to use writer.Write("{0}, i"}. 
+
+
+
+What I've done: 
+I've created an application with two layers of commands, and I want to genericize the TextByText Class into a Interface or class of some sort in order to be able to make an application that allows the create of new commands 
+
+NEXT STEP
+look up and figure out how I can edit the code in my app with my app
+one possible way is to have my app copy itself and edit the new copy and then switch over to that new copy as the production environment
+
+
